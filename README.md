@@ -5,18 +5,9 @@
 <li> I have given dump values for them if you wonder </li>
 
 1. What is the total amount each customer spent on zomato?
-| userid	| total_amt_spent |
-| ------- | --------------- |
-| 1       | 5230            |   
-| 2	      | 2510            |
-| 3	      | 4570            |
 
-| FirstName     | LastName      | City  |
-| :------------ |   :---:       | --------: |
-| `John`        | Test1         | `NewYork`   |
-| `Bob`         | Test2         | `Los Angeles`   |
-
-| FirstName     | LastName      | City     |
-| ------------- | ------------- | -------- |
-| John          | Test1         | NewYork  |
-| Bob           | Test2         | Toronto  |
+| userid        | total_amt_spent  |
+| ------------- | ---------------- |
+| 1             | 5230             |
+| 2             | 2510             |
+| 3             | 4570             |
