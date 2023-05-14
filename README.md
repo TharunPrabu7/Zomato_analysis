@@ -4,7 +4,6 @@
 ### Here, I have used SQL to analyse and answer 12 different questions.
 <li> I have created 4 dataset namely users, sales, product and goldusers_signup. </li>
 <li> I have given dump values for them </li>
-<Li> I got lazy with the formatting, if you can't understand the table just click the link
 
 ### These are the questions that I've answered with the output table given below:
 1) What is the total amount each customer spent on zomato?
