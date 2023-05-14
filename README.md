@@ -4,6 +4,7 @@
 <li> I have created 4 dataset namely users, sales, product and goldusers_signup. </li>
 <li> I have given dump values for them if you wonder </li>
 
+### These are the questions that I've answered with the output table given below:
 1. What is the total amount each customer spent on zomato?
 
 | userid        | total_amt_spent  |
